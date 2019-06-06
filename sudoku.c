@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int novo_jogo() {
+	
+}
+
 int main() {
 	int opcao;
 	printf("\nBem-vindo.\n\n");
